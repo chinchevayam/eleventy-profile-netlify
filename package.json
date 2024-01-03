@@ -12,6 +12,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.1"
+    "@11ty/eleventy": "^2.0.1",
+    "netlify-cli": "^17.11.0"
+  },
+  "dependencies": {
+    "debug": "^4.3.4"
   }
 }
